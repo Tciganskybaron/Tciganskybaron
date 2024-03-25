@@ -8,3 +8,17 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/Tciganskybaron01)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Tihonov.n.01@gmail.com)
 
+I'm a Full-stack Developer from Montenegro with a passion for web performance and Core Web Vitals, dedicated to enhancing site efficiency and user experience.
+
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <br>
+  </p>
+</details>
