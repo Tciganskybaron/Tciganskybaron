@@ -10,17 +10,32 @@
 
 I'm a Full-stack Developer from Montenegro with a passion for web performance and Core Web Vitals, dedicated to enhancing site efficiency and user experience.
 
+## 📚 My stack
+
 <details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <summary><b>Front-end</b></summary>
   <p>
-    <h3>Front-end</h3>
     <img src="https://skillicons.dev/icons?i=react,nextjs,graphql,js,ts,redux,html,css,sass,figma,materialui,bootstrap&perline=7" />
-    <h3>Back-end</h3>
+  </p>
+</details>
+
+<details align="left">
+  <summary><b>Back-end</b></summary>
+  <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,rabbitmq,linux,docker&perline=7" />
-		<h3>DB</h3>
+  </p>
+</details>
+
+<details align="left">
+  <summary><b>DB</b></summary>
+  <p>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sequelize,mongodb,ultimate&perline=7" />
-    <h3>Software</h3>
+  </p>
+</details>
+
+<details align="left">
+  <summary><b>Software</b></summary>
+  <p>
     <img src="https://skillicons.dev/icons?i=visualstudio,github,postman,ultimate&perline=7" />
-    <br>
   </p>
 </details>
